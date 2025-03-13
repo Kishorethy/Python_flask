@@ -1,0 +1,8 @@
+# Flask framework for building web apps
+Flask==3.0.0
+
+# Optional: If you want to use dotenv to manage environment variables (recommended for real apps)
+python-dotenv==1.0.1
+
+# Optional: If you plan to use Gunicorn as a production WSGI server
+gunicorn==21.2.0
